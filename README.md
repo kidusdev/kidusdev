@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kidusdev&label=Profile%20views&color=0e75b6&style=flat" alt="kidusdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kidusdev" alt="kidusdev" /></a> </p>
-
 - 💬 Ask me about **web and app developement**
 
 - 📫 How to reach me **kidusabrham.dev@gmail.com**
