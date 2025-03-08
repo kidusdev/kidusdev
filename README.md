@@ -2,10 +2,11 @@
 
 🚀 **Flutter & Node.js Developer | SaaS & Open-Source Enthusiast**  
 
-- 📱 Converting mobile websites into apps ([Fiverr](#))  
-- 🛠️ Working on a **Flutter state management package** (RxDart-based)  
-- 🌐 Exploring **Node.js, Next.js, Prisma, and SQLite**  
-- 📢 Sharing insights on **Flutter development**  
+- 📱 Building Fast And Responsive **Mobile** & **Desktop** Apps With **Flutter** 
+- 🖥️ Building Secure Backend **Apis** With **NodeJS** & **Typescript** 
+- 🌍 Building Scalable And Fast Fullstack Web Applications With **NextJS** 
+- 🛢️ Working With Relational And Non-Relational Databases Like **Mysql**, **MongoDB**, **PostgreSQL** & **SQLite**
+- 🛠️ Tools I Use **VS Code**, **Android Studio**, **Postman**...
 
 ### 🚀 My Tech Stack  
 📱 **Frontend**  
