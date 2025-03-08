@@ -1,6 +1,6 @@
 # Hi there, I'm Kidus Abrham 👋
 
-🚀 **Flutter & Node.js Developer | SaaS & Open-Source Enthusiast**  
+🚀 **Mobile, Desktop And Web App Developer**  
 
 - 📱 Building Fast And Responsive **Mobile** & **Desktop** Apps With **Flutter** 
 - 🖥️ Building Secure Backend **Apis** With **NodeJS** & **Typescript** 
