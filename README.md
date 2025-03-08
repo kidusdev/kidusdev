@@ -23,7 +23,7 @@
   
 
 ### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kidusdev&show_icons=true&theme=radical)  
 
 ### 🔗 Connect with Me  
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://cards.shebaspace.com)  
