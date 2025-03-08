@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kidus Abrham 👋
 
 🚀 **Flutter & Node.js Developer | SaaS & Open-Source Enthusiast**  
 
@@ -7,6 +7,7 @@
 - 🌍 Building Scalable And Fast Fullstack Web Applications With **NextJS** 
 - 🛢️ Working With Relational And Non-Relational Databases Like **Mysql**, **MongoDB**, **PostgreSQL** & **SQLite**
 - 🛠️ Tools I Use **VS Code**, **Android Studio**, **Postman**...
+- 🛠️ Deploying Projects To Cloud Infrastructures Like **AWS**, **CPanel**, **Hostinger** And Many More
 
 ### 🚀 My Tech Stack  
 📱 **Frontend**  
