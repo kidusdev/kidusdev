@@ -7,7 +7,7 @@
 - 🌍 Building Scalable And Fast Fullstack Web Applications With **NextJS** 
 - 🛢️ Working With Relational And Non-Relational Databases Like **Mysql**, **MongoDB**, **PostgreSQL** & **SQLite**
 - 🛠️ Tools I Use **VS Code**, **Android Studio**, **Postman**...
-- 🛠️ Deploying Projects To Cloud Infrastructures Like **AWS**, **CPanel**, **Hostinger** And Many More
+- ☁️ Deploying Projects To **Cloud** Infrastructures Like **AWS**, **CPanel**, **Hostinger** And Many More
 
 ### 🚀 My Tech Stack  
 📱 **Frontend**  
